@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gbb21, an active member in AI industry
+- 👀 I’m interested in Machine Learning and Optimization.
+- 🌱 I’m currently experimenting on statistic learning on small dataset
+- 💞️ I’m looking to collaborate on research projects over NLP, Graph, RL, CV, etc.
+- 📫 You may reach me by email, gbb21 [at] 126 [dot] com
